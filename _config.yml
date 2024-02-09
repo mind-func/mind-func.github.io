@@ -2,9 +2,9 @@
 title: MindFunc
 email: info@mindfunc.io
 url: https://mindfunc.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Your Partner in Innovative Software Solutions. We excel in .NET software development and harness cutting-edge technologies like AI and machine learning. Our team delivers quality, accurate code for your business projects at affordable costs. Let us transform your ideas into reality."
+keywords: ".NET, software development, AI, machine learning, quality code, affordable costs, innovative solutions, Oxfordshire, London"
+skills: "Where Mind Meets Function"
 meta_author: Func Mind
 
 # Google webmaster tools
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 1b0641
+  primary-rgb: "27,6,65"
+  secondary: a637eb
+  secondary-dark: 5114af
 
 # Footer settings
 footer:
