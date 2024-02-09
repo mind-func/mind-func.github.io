@@ -43,9 +43,9 @@ social:
   - title: envelope fa-solid
     url: mailto:hello@mindfunc.io
   - title: linkedin fa-brands
-    url: http://linkedin.com/mindfunc
+    url: https://linkedin.com/company/mindfunc
   - title: github fa-brands
-    url: http://github.com/mind-func
+    url: https://github.com/mind-func
 
 # Postal address (add as many lines as necessary)
 address:
