@@ -12,6 +12,7 @@ var cbpAnimatedHeader = (function() {
 
 	var docElem = document.documentElement,
 		header = document.querySelector( '.navbar-fixed-top' ),
+		dot = document.getElementById( 'mindfunc-dot' ),
 		didScroll = false,
 		changeHeaderOn = 300;
 
@@ -28,9 +29,11 @@ var cbpAnimatedHeader = (function() {
 		var sy = scrollY();
 		if ( sy >= changeHeaderOn ) {
 			classie.add( header, 'navbar-shrink' );
+			classie.add( dot, 'mindfunc-dot' );
 		}
 		else {
 			classie.remove( header, 'navbar-shrink' );
+			classie.remove( dot, 'mindfunc-dot' );
 		}
 		didScroll = false;
 	}
