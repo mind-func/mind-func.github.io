@@ -1,10 +1,10 @@
 # Site settings
 title: MindFunc
-email: info@mindfunc.io
+email: hello@mindfunc.io
 url: https://mindfunc.io
 description: "Your Partner in Innovative Software Solutions. We excel in .NET software development and harness cutting-edge technologies like AI and machine learning. Our team delivers quality, accurate code for your business projects at affordable costs. Let us transform your ideas into reality."
 keywords: ".NET, software development, AI, machine learning, quality code, affordable costs, innovative solutions, Oxfordshire, London"
-skills: "Where Mind Meets Function"
+skills: "where mind meets function"
 meta_author:
 
 # Google webmaster tools
@@ -18,6 +18,7 @@ bing_verify:
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
+formspree_endpoint: mpzvpgqz
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -25,9 +26,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 33176e
-  primary-rgb: "51,23,110"
-  secondary: 5114af
+  primary: 1b0641
+  primary-rgb: "27,6,65"
+  secondary: 1b0641
   secondary-dark: 240958
 
 # Footer settings
@@ -39,16 +40,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: envelope fa-solid
+    url: mailto:hello@mindfunc.io
+  - title: linkedin fa-brands
+    url: http://linkedin.com/mindfunc
+  - title: github fa-brands
+    url: http://github.com/mind-func
 
 # Postal address (add as many lines as necessary)
 address:
