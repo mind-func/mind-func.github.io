@@ -14,7 +14,7 @@ var cbpAnimatedHeader = (function() {
 		header = document.querySelector( '.navbar-fixed-top' ),
 		dot = document.getElementById( 'mindfunc-dot' ),
 		didScroll = false,
-		changeHeaderOn = 300;
+		changeHeaderOn = 242;
 
 	function init() {
 		window.addEventListener( 'scroll', function( event ) {
