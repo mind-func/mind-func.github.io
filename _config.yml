@@ -4,7 +4,6 @@ email: hello@mindfunc.io
 url: https://mindfunc.io
 description: "Your Partner in Innovative Software Solutions. We excel in .NET software development and harness cutting-edge technologies like AI and machine learning. Our team delivers quality, accurate code for your business projects at affordable costs. Let us transform your ideas into reality."
 keywords: ".NET, software development, AI, machine learning, quality code, affordable costs, innovative solutions, Oxfordshire, London"
-skills: "Where Mind Meets Function"
 meta_author:
 
 # Google webmaster tools
@@ -26,16 +25,24 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 1b0641
-  primary-rgb: "27,6,65"
-  secondary: 1b0641
-  secondary-dark: 240958
+  mindfunc1: 000000
+  mindfunc1-rgb: "0,0,0"
+  mindfunc1: 191970
+  mindfunc1-rgb: "25,25,112"
+  mindfunc1: 483d8b
+  mindfunc1-rgb: "72,61,139"
+  mindfunc1: 4b0082
+  mindfunc1-rgb: "75,0,130"
+  primary: 1F0042
+  primary-rgb: "31,0,66"
+  secondary: 1F0042
+  secondary-dark: 7246a5
 
 # Footer settings
 footer:
   copyright: MindFunc
   location: Location
-  social: Stay Connected
+  social: Keep in touch
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -51,9 +58,6 @@ social:
 address:
   - line: Oxfordshire
   - line: United Kingdom
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
