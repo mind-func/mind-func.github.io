@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 1
+img: software
+category: Software Development
+description: Tailored to meet the unique needs of your business, our custom software development service ensures that you get precisely what you need. From concept to execution, MindFunc leverages cutting-edge technologies to create bespoke solutions that drive efficiency and innovation.
+---

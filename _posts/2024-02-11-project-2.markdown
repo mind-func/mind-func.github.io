@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 2
+img: ai
+category: AI Integration
+description: Explore the power of artificial intelligence with MindFunc's AI integration services. We seamlessly incorporate AI technologies into your software solutions, enhancing automation, predictive analytics, and decision-making capabilities. Stay ahead of the curve with intelligent systems that adapt and learn.
+---

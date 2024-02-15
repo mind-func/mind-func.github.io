@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 3
+img: mobile
+category: Mobile App Development
+description: In a mobile-driven world, having a robust app is essential. MindFunc specializes in mobile app development, creating user-friendly and scalable applications for iOS and Android platforms. Elevate your brand's presence and engagement with our mobile solutions.
+---

@@ -34,7 +34,6 @@ a.active {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
     font-family: "MindFunc Discreet","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -88,6 +87,9 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
+}
+
+header, #about, footer {
     background-image: url('img/background.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -247,7 +249,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba({{ site.color.secondary-dark-rgb }},.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -275,6 +277,12 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
+}
+
+#portfolio .portfolio-item .portfolio-caption {
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
 }
 
 #portfolio * {
@@ -318,6 +326,7 @@ section.success {
     margin-top: 35px;
     border: solid 2px #fff;
     font-size: 20px;
+    font-weight: 800;
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
@@ -398,7 +407,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    /* background-color: #{{ site.color.secondary }}; */
 }
 
 footer .footer-col {
@@ -407,7 +416,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    /* background-color: #{{ site.color.secondary-dark }}; */
 }
 
 .btn-social {

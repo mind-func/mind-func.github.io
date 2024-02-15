@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 4
+img: web
+category: Web Development
+description: Your online presence matters. MindFunc's web development services ensure that your website is not just a digital presence but a powerful tool for your business. We design and develop responsive, intuitive, and secure websites that captivate users and drive conversions.
+---

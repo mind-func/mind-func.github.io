@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 6
+img: consult
+category: Consultancy
+description: Beyond development, MindFunc provides ongoing consultancy and support services. Our team of experts is ready to assist you with project management, troubleshooting, and continuous improvement. Count on us for reliable support throughout the lifecycle of your software solutions.
+---
