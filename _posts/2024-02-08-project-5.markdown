@@ -3,5 +3,5 @@ layout: default
 modal-id: 5
 img: cyber
 category: Cybersecurity
-description: Protecting your digital assets is paramount. MindFunc offers comprehensive cybersecurity solutions, safeguarding your software and data from potential threats. From penetration testing to robust encryption, we prioritize the security of your digital infrastructure.
+description: Protecting your digital assets is paramount. MindFunc offers comprehensive cybersecurity solutions, safeguarding your software and data from potential threats. From penetration testing to robust encryption, we prioritise the security of your digital infrastructure.
 ---

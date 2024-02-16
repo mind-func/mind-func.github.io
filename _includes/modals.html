@@ -14,7 +14,7 @@
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
             <h2>{{ post.category }}</h2>
-            <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 27px;">
+            <div style="display: flex; justify-content: center; align-items: center;">
               <div style="background-color: #{{ site.color.primary }}; height: 5px; width: 100px;"></div>
               <div style="margin: 7px;"><i class="fa-solid fa-code" style="font-size: 2em;"></i></div>
               <div style="background-color: #{{ site.color.primary }}; height: 5px; width: 100px;"></div>
@@ -23,7 +23,7 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
-            <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 27px;"><i class="fa fa-times"></i>
+            <button type="button" class="btn" data-dismiss="modal" style="color: white; background-color: #{{ site.color.primary }}; margin-top: 27px;"><i class="fa fa-times"></i>
               Close</button>
           </div>
         </div>

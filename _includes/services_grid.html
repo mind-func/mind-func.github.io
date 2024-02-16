@@ -3,7 +3,7 @@
   <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Services</h2>
+        <h2>What we do</h2>
         <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 27px;">
           <div style="background-color: #{{ site.color.primary }}; height: 5px; width: 100px;"></div>
           <div style="margin: 7px;"><i class="fa-solid fa-code" style="font-size: 2em;"></i></div>
@@ -14,10 +14,10 @@
     <div class="portfolio-flex-row">
       {% for post in site.posts %}
       <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" style="background-image: url('img/background.jpg')">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" style="background-color: #{{ site.color.primary }};">
           <div class="caption">
             <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
+              <i class="fa fa-code fa-3x"></i>
             </div>
           </div>
           <img src="img/services/{{ post.img }}_b.png" class="img-responsive" alt="{{ post.category }}">
