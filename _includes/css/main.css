@@ -191,6 +191,14 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+.navbar-toggle {
+    border: 0px solid transparent;
+}
+
+.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
+    background-color: #{{ site.color.primary }}
+}
+
 .navbar a:focus {
     outline: 0;
 }
