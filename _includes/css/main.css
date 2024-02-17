@@ -549,3 +549,9 @@ footer .footer-below {
 .list-inline {
     margin-top: -27px;
 }
+
+.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open>.dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.primary }};
+}
