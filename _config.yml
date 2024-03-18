@@ -57,6 +57,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Bicester
   - line: Oxfordshire
   - line: United Kingdom
 
